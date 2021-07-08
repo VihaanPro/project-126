@@ -1,0 +1,24 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Dosis', sans-serif;
+}
+.note{
+    font-size: 15px;
+    color: black;
+    font-family: 'Inconsolata', monospace;
+}
+body{
+    background-size: cover;
+}
+.play_button
+  {
+  	width: 130px;
+  	font-size: 25px;
+  }
+canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+  }
